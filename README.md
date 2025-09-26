@@ -1,1 +1,1 @@
-hello i make a chess game board in html 
+hello i make a chess game board in html  
